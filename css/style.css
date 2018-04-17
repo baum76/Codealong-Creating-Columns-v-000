@@ -70,8 +70,12 @@ figcaption {
 #details a:active {
   color: red;
 }
+/*////// MEDIA /////*/
 
-/*//////LAYOUT //////*/
+img, video, audo {
+  max-width: 100%
+}
+/*////// LAYOUT //////*/
 
 .wrapper {
   width: 960px;
